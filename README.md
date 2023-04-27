@@ -3,14 +3,23 @@
 My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm from Brazil, Belo Horizonte and you can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Git&GitHub-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/RTL-informational?style=flat&logo=testinglibrary&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=004DCF)
+<br>
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=006b76)
+![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=006b76)
+![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=006b76)
+<br>
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/gpt-informational?style=flat&logo=chatgpt&logoColor=white&color=792fff)
+
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/patrick-rayner/patrick-rayner">
