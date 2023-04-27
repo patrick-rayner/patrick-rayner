@@ -10,7 +10,6 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/RTL-informational?style=flat&logo=testinglibrary&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=004DCF)
 <br>
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=006b76)
@@ -21,7 +20,8 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 <br>
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=792fff)
 
 
 ## &#x1f4c8; GitHub Stats
