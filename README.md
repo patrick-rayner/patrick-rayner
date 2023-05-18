@@ -2,7 +2,7 @@
 
 My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm from Brazil, Belo Horizonte and you can find me on [![LinkedIn][3.2]][3].
 
-## 🔧 Personal Interests
+## ✨ Personal Interests
 
 👨🏽‍💻 I am studying Object-Oriented Programming to be able to write better and more reusable code;
 
