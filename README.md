@@ -5,14 +5,19 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ## ✨ Personal Interests
 
 👨🏽‍💻 I am studying Object-Oriented Programming to be able to write better and more reusable code;
+<br>
 🌱 I am learning how to perform integration tests on my own APIs;
+<br>
 🤔 My hobbies are online gaming, photographies and music;
+<br>
 💼 I am pursuing knowledge to advance in my career as a developer;
+<br>
 💬 Ask me anything, I love helping people;
+<br>
 📫 Please send an email to pa3q@outlook.com to reach me.
+<br>
 📝 View my Curriculum Vitae by clicking here for more information.
-
-
+<br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=004DCF)
