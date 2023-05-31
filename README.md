@@ -43,11 +43,11 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/patrick-rayner/patrick-rayner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-rayner&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-rayner&show_icons=true&theme=dracula" alt="pa3q" />
 </a>
 <br>
 <a href="https://github.com/patrick-rayner/patrick-rayner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&theme=dracula" alt="pa3q"" />
 </a>
 
 <!-- icons with padding -->
