@@ -28,17 +28,21 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/RTL-informational?style=flat&logo=testinglibrary&logoColor=white&color=004DCF)
 <br>
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=792fff)
+<br>
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Bulma-informational?style=flat&logo=bulma&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Boostrap-informational?style=flat&logo=bootstrap&logoColor=white&color=006b76)
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=006b76)
-<br>
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=792fff)
+
 
 
 ## &#x1f4c8; GitHub Stats
