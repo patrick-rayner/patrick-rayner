@@ -1,6 +1,6 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm from Brazil, Belo Horizonte and you can find me on [![LinkedIn][3.2]][3].
+My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm from Brazil, Belo Horizonte and you can find me on [LinkedIn][3].
 
 ## ✨ Personal Interests
 
@@ -16,7 +16,7 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 <br>
 📫 Please send an email to pa3q@outlook.com to reach me.
 <br>
-📝 View my Curriculum Vitae by clicking here for more information.
+📝 Download my Curriculum Vitae by [clicking here][1].
 <br>
 
 ## 🔧 Technologies & Tools
@@ -58,14 +58,9 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
-
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
 <!-- links to your social media accounts -->
 
+[1]: https://drive.google.com/file/d/1YgZL4dhVMbv2oVV8aUjf9NvlAsUoN7iG/view?usp=sharing
 [2]: https://github.com/patrick-rayner
 [3]: https://www.linkedin.com/in/patrickrayner/
 
