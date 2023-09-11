@@ -23,6 +23,7 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=004DCF)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=004DCF)
 ![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=004DCF)
