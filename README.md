@@ -32,6 +32,7 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=792fff)
+![](https://img.shields.io/badge/Sequelize-informational?style=flat&logo=sequelize&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=792fff)
