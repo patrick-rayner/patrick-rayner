@@ -46,12 +46,7 @@ My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm fro
 ![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=006b76)
 
 
-
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/patrick-rayner/patrick-rayner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-rayner&show_icons=true&theme=dracula" alt="pa3q" />
-</a>
-<br>
 <a href="https://github.com/patrick-rayner/patrick-rayner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&theme=dracula" alt="pa3q"" />
 </a>
