@@ -1,23 +1,27 @@
 # Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Patrick Rayner and currently i'm a Web Dev Student at @trybe. I'm from Brazil, Belo Horizonte and you can find me on [LinkedIn][3].
+My name is Patrick Rayner — I'm a creative leader and designer passionate about building smart, intuitive and beautiful digital experiences.Currently working as Head of Creative at Inkryptus, where I lead design, branding and UX strategy in the crypto space.
 
-## ✨ Personal Interests
+## 🚀 What I'm focused on right now:
 
-👨🏽‍💻 I am studying Object-Oriented Programming to be able to write better and more reusable code;
+🎯 Designing digital experiences that simplify complex ideas (especially in Web3);
 <br>
-🌱 I am learning how to perform integration tests on my own APIs;
+🎨 Leading creative and design direction across marketing, product and brand;
 <br>
-🤔 My hobbies are online gaming, photographies and music;
+📊 Using data, UX research and AI tools to create visual strategies that convert;
+
+## 🚀 Background
+
+With a foundation in advertising and strong experience in UX/UI, I'm passionate about combining creativity and strategy. I’ve worked across agencies and startups, and now focus on the intersection between design, technology and growth in decentralized ecosystems.
 <br>
-💼 I am pursuing knowledge to advance in my career as a developer;
+📍 Based in Belo Horizonte, Brazil
 <br>
-💬 Ask me anything, I love helping people;
+🌐 Fluent in design, branding and memes
 <br>
-📫 Please send an email to pa3q@outlook.com to reach me.
+📫 Reach me at: pa3q@outlook.com
 <br>
-📝 Download my Curriculum Vitae by [clicking here][1].
-<br>
+🔗 Let’s connect on [LinkedIn][3]
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=004DCF)
