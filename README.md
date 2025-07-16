@@ -1,75 +1,75 @@
-# Hello everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:004DCF,100:792fff&height=120&section=header"/>
 
-My name is Patrick Rayner — I'm a creative leader and designer passionate about building smart, intuitive and beautiful digital experiences.Currently working as Head of Creative at Inkryptus, where I lead design, branding and UX strategy in the crypto space.
+<h1 align="center">Olá! Eu sou o Patrick Rayner 👋</h1>
+<p align="center">Designer criativo e estrategista de marcas digitais.</p>
 
-## 🚀 What I'm focused on right now:
+<p align="center">
+  <a href="mailto:pa3q@outlook.com"><img src="https://img.shields.io/badge/-Email-004DCF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/patrickrayner/"><img src="https://img.shields.io/badge/-LinkedIn-792fff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/patrick-rayner"><img src="https://img.shields.io/badge/-GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-🎯 Designing digital experiences that simplify complex ideas (especially in Web3);
-<br>
-🎨 Leading creative and design direction across marketing, product and brand;
-<br>
-📊 Using data, UX research and AI tools to create visual strategies that convert;
+---
 
-## 🚀 Background
+## ✨ Sobre mim
 
-With a foundation in advertising and strong experience in UX/UI, I'm passionate about combining creativity and strategy. I’ve worked across agencies and startups, and now focus on the intersection between design, technology and growth in decentralized ecosystems.
-<br>
-📍 Based in Belo Horizonte, Brazil
-<br>
-🌐 Fluent in design, branding and memes
-<br>
-📫 Reach me at: pa3q@outlook.com
-<br>
-🔗 Let’s connect on [LinkedIn][3]
+Sou designer com mais de 6 anos de experiência criando produtos digitais que equilibram estética, usabilidade e resultado. Atualmente sou **Head of Creative na Inkryptus**, onde lidero estratégias de design, branding e UX no universo Web3.
 
+- 🧠 Apaixonado por transformar complexidade em clareza visual
+- 🛠️ Atuando com design de produto, marca, UX/UI e direção criativa
+- 🤖 Explorando inteligência artificial como aliada no processo criativo
+- 🌍 Baseado em Belo Horizonte, Brasil
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/Redux-informational?style=flat&logo=redux&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=004DCF)
-![](https://img.shields.io/badge/RTL-informational?style=flat&logo=testinglibrary&logoColor=white&color=004DCF)
-<br>
-![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Sequelize-informational?style=flat&logo=sequelize&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=792fff)
-![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=792fff)
-<br>
-![](https://img.shields.io/badge/Figma-informational?style=flat&logo=Figma&logoColor=white&color=006b76)
-![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=006b76)
-![](https://img.shields.io/badge/Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=006b76)
-![](https://img.shields.io/badge/Bulma-informational?style=flat&logo=bulma&logoColor=white&color=006b76)
-![](https://img.shields.io/badge/Boostrap-informational?style=flat&logo=bootstrap&logoColor=white&color=006b76)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=006b76)
+---
 
+## 🚀 Em que estou focado agora
 
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/patrick-rayner/patrick-rayner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&theme=dracula" alt="pa3q"" />
-</a>
+- Estratégia criativa para experiências digitais no mercado cripto
+- UX design com base em dados e pesquisa com usuários
+- Branding e identidade visual para projetos com propósito
 
-<!-- icons with padding -->
+---
 
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+## 🧰 Tecnologias e ferramentas que utilizo
 
-<!-- links to your social media accounts -->
+### 💻 Linguagens & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,redux,html,css,jest,express)](https://skillicons.dev)
 
-[1]: https://drive.google.com/file/d/1YgZL4dhVMbv2oVV8aUjf9NvlAsUoN7iG/view?usp=sharing
-[2]: https://github.com/patrick-rayner
-[3]: https://www.linkedin.com/in/patrickrayner/
+### 🎨 Design & Front-end
+[![My Skills](https://skillicons.dev/icons?i=figma,tailwind,bootstrap,bulma)](https://skillicons.dev)
 
+### 🛠️ Dev & Infra
+[![My Skills](https://skillicons.dev/icons?i=docker,mysql,sequelize,git,linux,vscode,bash)](https://skillicons.dev)
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-rayner&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&layout=compact&langs_count=6&theme=dracula"/>
+</p>
+
+---
+
+## 🧪 Projetos e experimentos
+
+Tenho explorado o uso de IA e interfaces conversacionais, criando soluções com foco em acessibilidade, performance e impacto. Também atuo com mentoria e consultoria em branding para empresas de tecnologia e startups.
+
+> Acredito que design é sobre resolver problemas reais com sensibilidade, estratégia e colaboração.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Se você trabalha com design, inovação ou tecnologia e acredita que podemos trocar ideias, criar ou construir algo juntos, me chame!
+
+<p align="center">
+  <a href="mailto:pa3q@outlook.com"><img src="https://img.shields.io/badge/-Entre em contato-004DCF?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=patrick-rayner.patrick-rayner&left_color=792fff&right_color=004DCF" />
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:792fff,100:004DCF"/>
