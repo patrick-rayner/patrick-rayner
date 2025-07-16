@@ -13,7 +13,7 @@
 
 ## ✨ Sobre mim
 
-Sou designer com mais de 6 anos de experiência criando produtos digitais que equilibram estética, usabilidade e resultado. Atualmente sou **Head of Creative na Inkryptus**, onde lidero estratégias de design, branding e UX no universo Web3.
+Sou designer com mais de 10 anos de experiência criando produtos digitais que equilibram estética, usabilidade e resultado. Atualmente sou **Head of Creative na Inkryptus**, onde lidero estratégias de design, branding e UX no universo Web3.
 
 - 🧠 Apaixonado por transformar complexidade em clareza visual
 - 🛠️ Atuando com design de produto, marca, UX/UI e direção criativa
