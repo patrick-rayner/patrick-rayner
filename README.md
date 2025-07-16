@@ -45,10 +45,7 @@ Sou designer com mais de 6 anos de experiência criando produtos digitais que eq
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patrick-rayner&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-rayner&layout=compact&langs_count=6&theme=dracula"/>
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=patrick-rayner&bg_color=0d1117&color=ffffff&line=792fff&point=004DCF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
